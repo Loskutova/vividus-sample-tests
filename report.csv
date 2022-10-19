@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Oct 19 14:16:25 WEST 2022","Wed Oct 19 14:16:25 WEST 2022","96","batch-1","Star Wars API","","","","Verify that the population of planet 1 is 200000",""
+"passed","Wed Oct 19 14:16:24 WEST 2022","Wed Oct 19 14:16:25 WEST 2022","734","batch-1","Star Wars API","","","","Verify Luke's eyes are blue",""
+"passed","Wed Oct 19 14:16:25 WEST 2022","Wed Oct 19 14:16:25 WEST 2022","77","batch-1","Star Wars API","","","","Verify that the ""A New Hope"" film have correct director and release_date",""
